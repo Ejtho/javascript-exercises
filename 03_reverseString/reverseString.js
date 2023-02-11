@@ -6,10 +6,10 @@ const reverseString = function(string) {
 };
 
 // Or this solution, without using the reverse method
-// function reverse(array) {
-//    var output = [];
-//     while (array.length) {
-//       output.push(array.pop());
+// function reverseString(array) {
+//    let stringArray = string.split("");
+//     while (stringArray.length) {
+//       output.push(StringArray.pop());
 //     }
 //   
 //     return output;
